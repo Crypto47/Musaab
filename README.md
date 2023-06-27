@@ -8,7 +8,8 @@ Software engineer, Full Stack Web Developer, Cybersecurity enthusiast, and aspir
 
 <img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/Fire.gif" />
 
-:shipit: [**Pakistan Institute of Engineering and Applied Sciences**][ur] Dean's Scholar, Computer Science '25  
+:shipit: [**Pakistan Institute of Engineering and Applied Sciences**][ur] 
+:shipit: [**Government College University ,Lahore**][ur] Roll of Honor,ICS 
 :shipit: [**Cyber Secured India**][systems] Intern  
 :shipit: [**PIEAS Cyber Security Club**][siggraph] President  
 
@@ -36,12 +37,12 @@ _Other skills: :paintbrush: painting, :man_dancing: breakdancing,
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
-![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
+![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)
 
 
 ### Tools
 
-![Nmap]((https://icons8.com/icon/986/eye))
+![Nmap](https://icons8.com/icon/986/eye)
 ![Metasploit](https://icons8.com/icon/PW0ChfedZvTh/metasploit)
 
 
@@ -56,7 +57,7 @@ _Other skills: :paintbrush: painting, :man_dancing: breakdancing,
 
 Let's connect and talk about…
 
-algorithms, AR/VR, , data structures, machine learning,steganography,pentesting
+algorithms, AR/VR, data structures, machine learning, steganography,pen testing
 parallel computing, programming languages, software design, web
 development,
 
