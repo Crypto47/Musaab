@@ -8,7 +8,7 @@ Software engineer, Full Stack Web Developer, Cybersecurity enthusiast, and aspir
 
 <img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="Fire.gif" />
 
-:shipit: [**Pakistan Institute of Engineering and Applied Sciences**][ur] 
+:shipit: [**Pakistan Institute of Engineering and Applied Sciences**][ur] Potato
 :shipit: [**Government College University ,Lahore**][systems] Roll of Honor,ICS 
 :shipit: [**Cyber Secured India**][systems] Intern  
 :shipit: [**PIEAS Cyber Security Club**][siggraph] President  
@@ -72,11 +72,11 @@ GIF by Sand Castles Studio for their game Bread & Fred.
 </a>-->
 
 <a href="mailto:musabjaved47@gmail.com">
-    <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
+    <img height="32" align="left" alt="Mail" src="gmail.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/musabjaved/">
-    <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
+    <img height="32" align="left" alt="LinkedIn" src="inkedin.png" />
 </a>
 
 
