@@ -28,11 +28,9 @@ Software engineer, Full Stack Web Developer, Cybersecurity enthusiast, and aspir
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![NODE](https://img.shields.io/badge/React-61DAFB?logo=node&logoColor=black&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 
-_Other skills: :paintbrush: graphics design, :man_dancing: breakdancing,
-:skateboard: skateboarding, :computer_mouse: interactive experiences._
+_Other skills: :paintbrush: painting, :man_dancing: breakdancing,
+:skateboard: cricket, :computer_mouse: Gaming._
 
 ### Software
 
@@ -43,8 +41,8 @@ _Other skills: :paintbrush: graphics design, :man_dancing: breakdancing,
 
 ### Tools
 
-![Nmap](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white&style=for-the-badge)
-![Metasploit]
+![Nmap]((https://icons8.com/icon/986/eye))
+![Metasploit](https://icons8.com/icon/PW0ChfedZvTh/metasploit)
 
 
 
