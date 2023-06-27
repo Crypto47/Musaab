@@ -30,8 +30,8 @@ Software engineer, Full Stack Web Developer, Cybersecurity enthusiast, and aspir
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 
-_Other skills: :paintbrush: painting, :man_dancing: breakdancing,
-:skateboard: cricket, :computer_mouse: Gaming._
+_Other skills: :paintbrush: painting, 
+🏏: cricket, :computer_mouse: Gaming
 
 ### Software
 
@@ -49,7 +49,7 @@ _Other skills: :paintbrush: painting, :man_dancing: breakdancing,
 
 <p align="center">
     <b>Looking for a software engineering intern?
-        <a href="https://www.linkedin.com/in/zach-nguyen">Let's connect and talk!</a>
+        <a href="https://www.linkedin.com/in/musabjaved/">Let's connect and talk!</a>
     </b>
 </p>
 
@@ -76,7 +76,7 @@ GIF by Sand Castles Studio for their game Bread & Fred.
 </a>
 
 <a href="https://www.linkedin.com/in/musabjaved/">
-    <img height="32" align="left" alt="LinkedIn" src="inkedin.png" />
+    <img height="32" align="left" alt="LinkedIn" src="linkedin.png" />
 </a>
 
 
