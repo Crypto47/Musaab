@@ -30,8 +30,8 @@ Software engineer, Full Stack Web Developer, Cybersecurity enthusiast, and aspir
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 
-_Other skills: :paintbrush: painting, 
-🏏: cricket, :computer_mouse: Gaming
+Other skills: :paintbrush: painting, 
+🏏: cricket, 🎮: Gaming
 
 ### Software
 
@@ -40,10 +40,7 @@ _Other skills: :paintbrush: painting,
 ![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)
 
 
-### Tools
 
-![Nmap](https://icons8.com/icon/986/eye)
-![Metasploit](https://icons8.com/icon/PW0ChfedZvTh/metasploit)
 
 
 
