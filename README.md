@@ -1,7 +1,6 @@
 # Hi, I'm Musaab :wave:
 
-Software engineer,Full Stack Web Developer, Crybersecurity enthusiast, and aspiring software entrepreneur.  
-Building [Abyss Inc.][abyss]
+Software engineer, Full Stack Web Developer, Cybersecurity enthusiast, and aspiring software entrepreneur.  
 
 [Crypto]: https://github.com/Crypto47
 
@@ -37,9 +36,17 @@ _Other skills: :paintbrush: graphics design, :man_dancing: breakdancing,
 
 ### Software
 
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
+
+
+### Tools
+
+![Nmap](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white&style=for-the-badge)
+![Metasploit]
+
+
 
 <p align="center">
     <b>Looking for a software engineering intern?
