@@ -60,7 +60,6 @@ development,
 
 …or anything you'd like. （๑╹◡╹๑）
 
-GIF by Sand Castles Studio for their game Bread & Fred.
 
 ---
 
